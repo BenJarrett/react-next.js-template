@@ -45,3 +45,6 @@ cd my-next-app
 npm install bootstrap
 
 npm run dev
+
+
+Next.js is a React framework that simplifies the development of React applications by providing features like server-side rendering, automatic code splitting, and easy-to-use routing. In the project, you create React components for different pages (Home, Profile, About, Products, OnSale), and these components are then used in the pages defined by Next.js. The navigation is handled using React components and the Next.js routing system.
